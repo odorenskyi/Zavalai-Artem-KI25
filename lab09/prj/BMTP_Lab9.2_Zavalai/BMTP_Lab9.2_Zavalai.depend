@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774985752 source:c:\users\admin\desktop\bmtp-zavalai-ki25\lab9\prj\bmtp_lab9.2_zavalai\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"ModulesZavalai.h"
+
+1774985293 c:\users\admin\desktop\bmtp-zavalai-ki25\lab9\prj\bmtp_lab9.1_zavalai\moduleszavalai.h
+
