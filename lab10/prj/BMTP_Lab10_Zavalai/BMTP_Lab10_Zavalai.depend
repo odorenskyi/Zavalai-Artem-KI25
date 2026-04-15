@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1774985557 source:c:\users\admin\desktop\zavalai_repo\lab09\prj\bmtp_lab9.1_zavalai\moduleszavalai.cpp
+	"ModulesZavalai.h"
+	<iostream>
+	<cmath>
+
+1774985293 c:\users\admin\desktop\zavalai_repo\lab09\prj\bmtp_lab9.1_zavalai\moduleszavalai.h
+
+1776246982 source:c:\users\admin\desktop\zavalai_repo\lab10\prj\bmtp_lab10_zavalai\moduleszavalai.cpp
+	"ModulesZavalai.h"
+	<iostream>
+	<cmath>
+
+1774985293 c:\users\admin\desktop\zavalai_repo\lab10\prj\bmtp_lab10_zavalai\moduleszavalai.h
+
+1776242822 source:c:\users\admin\desktop\zavalai_repo\lab10\prj\bmtp_lab10_zavalai\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<ctime>
+	<bitset>
+	<windows.h>
+	"ModulesZavalai.h"
+
